@@ -13,4 +13,8 @@ public class GitExampleApplication {
 	public void addedNewMethod(){
 		//This is for gitexample
 	}
+	
+	public void addedJiraMethod(){
+		//This is for gitexample
+	}
 }
