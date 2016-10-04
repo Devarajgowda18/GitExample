@@ -9,4 +9,8 @@ public class GitExampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitExampleApplication.class, args);
 	}
+	
+	public void addedNewMethod(){
+		//This is for gitexample
+	}
 }
